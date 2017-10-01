@@ -1,0 +1,11 @@
+{
+    "name": "nodemmap",
+    "description": "mmap and munmap",
+    "license": "MIT",
+    "version": "0.1.0",
+    "engines":{"node": "5.x.x"},
+    "main": "./build/Release/mmap",
+    "repository": { "type": "git", "url": "https://github.com/cloud-automation/nodemmap.git" },
+    "scripts": { 
+    }
+}
